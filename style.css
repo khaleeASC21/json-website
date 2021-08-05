@@ -1,0 +1,21 @@
+/* Add your styling here: */
+body {
+    text-align: center;
+    background-color: lightcoral;
+}
+
+#profile{
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+
+#profile div{
+    display: flex;
+    border: outset lightseagreen 7px;
+    width: 30%;
+    margin: 10px;
+    padding: 5px
+}
